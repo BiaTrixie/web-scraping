@@ -1,4 +1,4 @@
-# WEB SCRPAING  
+# WEB SCRAPING  
 
 Nesse código em python temos dois scrapings o links.py que pega todos os links do site https://www.atresimobiliaria.com.br/imoveis/para-alugar
 
